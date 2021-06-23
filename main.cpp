@@ -21,7 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
-	p_info();
+	pinfo();
 
     return 0;
 }

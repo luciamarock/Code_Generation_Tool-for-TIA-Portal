@@ -13,9 +13,20 @@
 
 #ifndef INFO_H
 #define INFO_H
+
+#ifdef __cplusplus
+   extern "C" {
+#endif
+
 void pinfo();
+
+#ifdef __cplusplus
+   }
+#endif
 
 
 #endif /* INFO_H */
+
+
 
 

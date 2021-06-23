@@ -4,11 +4,11 @@ Created on Wed Jun 23 17:00:55 2021
 
 @author: luciamarock
 """
-
-from ctypes import *
+# g++ -o libinfo.so -shared -fPIC info.cpp
+import ctypes
 
 #libInfo = CDLL("./libinfo.so")
-libInfo = cdll.LoadLibrary("libinfo.so")
+libInfo = ctypes.CDLL("./libinfo.so")
  
 libInfo.pinfo()
  

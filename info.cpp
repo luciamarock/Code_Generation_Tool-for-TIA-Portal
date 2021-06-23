@@ -9,6 +9,6 @@
 void p_info()
 {
 
-    std::cout << "This is a code generation tool for PLC SIEMENS";
+    std::cout << "This is a code generation tool for PLC SIEMENS\n";
     
 }

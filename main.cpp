@@ -12,7 +12,7 @@
  */
 
 #include <cstdlib>
-#include "info.h"
+#include "info.cpp"
 
 using namespace std;
 

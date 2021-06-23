@@ -13,7 +13,7 @@
 
 #ifndef INFO_H
 #define INFO_H
-void p_info();
+void pinfo();
 
 
 #endif /* INFO_H */

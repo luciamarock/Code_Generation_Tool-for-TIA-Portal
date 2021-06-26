@@ -1,0 +1,118 @@
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2:PCO0001 _______________________________________________________
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-SFU:SFU0001 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP1:PL0101 of type DEV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP2:PL0102 of type DEV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP1:AG0101 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PRZ:PRZ0001 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PRZ:PC0001 of type CTRL_PID
+	 CWS-SCSU-CHH2-PRZ:LC0001 of type CTRL_ONOF
+	 ------------------------------------------ adding children of level 2 ------------------------------------------
+	 CWS-SCSU-CHH2-PRZ:SPT0001 of type SPLTR
+	 CWS-SCSU-CHH2-PRZ:VG0180 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PRZ:VG0866 of type VLV_ONOF
+	 ------------------------------------------ adding children of level 3 ------------------------------------------
+	 CWS-SCSU-CHH2-PRZ:VC0003 of type VLV_CTRL
+	 CWS-SCSU-CHH2-PRZ:VC0004 of type VLV_CTRL
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-CHG:CHG0001 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-CHG:CHI0001 of type DEV_ONOF
+	 CWS-SCSU-CHH2-CHG:CHI0002 of type DEV_ONOF
+	 CWS-SCSU-CHH2-CHG:CHI0003 of type DEV_ONOF
+	 CWS-SCSU-CHH2-CHG:CHI0004 of type DEV_ONOF
+	 CWS-SCSU-CHH2-CHG:CHI0005 of type DEV_ONOF
+	 CWS-SCSU-CHH2-CHG:CHI0006 of type DEV_ONOF
+	 CWS-SCSU-CHH2-CHG:CHI0007 of type DEV_ONOF
+	 CWS-SCSU-CHH2-CHG:CHI0008 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG:PMPG0001 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG:SQ0001 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PLPB:FC0001 of type CTRL_PID
+	 ------------------------------------------ adding children of level 2 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PLPB:VC0098 of type VLV_CTRL
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG-PMP1:PMP0001 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP1:SQ0001 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PMP1:VG0166 of type VLV_MAN
+	 CWS-SCSU-CHH2-PMPG-PMP1:VG0282 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP1:PL0001 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG-PMP2:PMP0002 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP2:SQ0002 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PMP2:VG0165 of type VLV_MAN
+	 CWS-SCSU-CHH2-PMPG-PMP2:VG0279 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP2:PL0002 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG-PMP3:PMP0003 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP3:SQ0003 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PMP3:VG0164 of type VLV_MAN
+	 CWS-SCSU-CHH2-PMPG-PMP3:VG0277 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP3:PL0003 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG-PMP4:PMP0004 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP4:SQ0004 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PMP4:VG0021 of type VLV_MAN
+	 CWS-SCSU-CHH2-PMPG-PMP4:VG0200 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP4:PL0004 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG-PMP5:PMP0005 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP5:SQ0005 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PMP5:VG0163 of type VLV_MAN
+	 CWS-SCSU-CHH2-PMPG-PMP5:VG0199 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP5:PL0005 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG-PMP6:PMP0006 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP6:SQ0006 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PMP6:VG0162 of type VLV_MAN
+	 CWS-SCSU-CHH2-PMPG-PMP6:VG0179 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP6:PL0006 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG-PMP7:PMP0007 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP7:SQ0007 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PMP7:VG0161 of type VLV_MAN
+	 CWS-SCSU-CHH2-PMPG-PMP7:VG0168 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP7:PL0007 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-PMPG-PMP8:PMP0008 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-PMPG-PMP8:SQ0008 of type SQ
+	 CWS-SCSU-CHH2-PMPG-PMP8:VG0159 of type VLV_MAN
+	 CWS-SCSU-CHH2-PMPG-PMP8:VG0167 of type VLV_ONOF
+	 CWS-SCSU-CHH2-PMPG-PMP8:PL0008 of type DEV_ONOF
+
+
+_______________________________________________________ processing PCO:: CWS-SCSU-CHH2-WD:WD0001 _______________________________________________________
+	 ------------------------------------------ adding children of level 1 ------------------------------------------
+	 CWS-SCSU-CHH2-WD-B50s:FC0001 of type CTRL_PID
+	 CWS-SCSU-CHH2-WD-B61:FC0001 of type CTRL_PID
+	 CWS-SCSU-CHH2-WD-B50s:VG0185 of type VLV_ONOF
+	 CWS-SCSU-CHH2-WD-B61:VG0284 of type VLV_ONOF
+	 ------------------------------------------ adding children of level 2 ------------------------------------------
+	 CWS-SCSU-CHH2-WD-B50s:VC0039 of type VLV_CTRL
+	 CWS-SCSU-CHH2-WD-B61:VC0002 of type VLV_CTRL
+
+
